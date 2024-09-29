@@ -1,0 +1,1 @@
+En esta sección aprendí a usar algunos comandos de la terminal, como lo son el mkdir donde cree una carpeta, cd donde ingrese a la carpeta que necesitaba, clear para limpiar la terminal, entre otros también logre crear mi primer archivo .html reforcé el como crear un repositorio en git hub y el hacer un commit.
